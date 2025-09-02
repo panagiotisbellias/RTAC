@@ -1,0 +1,7 @@
+📋 Prerequisites
+
+- Python 3.13 or higher                     ❌      $ python3                               Python 3.12.3
+- Node.js 18+ (for frontend)                ✅      $ node -v                               v18.18.0
+- Poetry (for Python dependency management) ❌      
+- Docker & Docker Compose (recommended)     ✅      $ docker -v / docker compose version    Docker version 28.3.0, build 38b7060 / Docker Compose version v2.37.3
+- Google API Key (for Google ADK and Maps)  ❌      
